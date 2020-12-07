@@ -1,0 +1,31 @@
+CSE 535 Contribution - Project
+
+Name -
+1. Nabeel Khan
+
+Week 1
+
+      - Exploring and familiarizing with git
+      - Learning prerequisites for design
+      
+Week 2 
+    - Created project with git
+    - Parse CGM data and synchronize meal ground truth with CGM data
+
+Week 3 
+	- Study about intermediate code generation
+	- Study about runtime execution
+
+Week 4 
+	- Develop intermediate code generator	
+	- Develop basic runtime structure
+	- Algorithm Instantiation
+Week 5 
+	- Algorithm implementation
+	- Training and Testing accuracy
+	- Update intermediate code generator to handle additional functionalities
+	- Bug fixes	
+	- Testing the project
+	- Worked on presentation
+	- Worked on the Video, Documentation
+	
