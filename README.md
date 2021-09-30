@@ -1,3 +1,3 @@
-# CSE535_Project_Code
+# Meal Detection Project
 
-Cgm meal plan
+Meal time detection from glucose monitor data of a subject
